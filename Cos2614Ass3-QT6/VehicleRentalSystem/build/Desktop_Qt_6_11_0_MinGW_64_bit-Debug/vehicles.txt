@@ -1,0 +1,100 @@
+Car|C1|Toyota|Corolla|400|1|4|5|cindy cigh|99
+Car|C2|BMW|M3|800|0|4|5||0
+Car|C3|Mercedes|C200|750|0|4|5||0
+Car|C4|Audi|A4|700|0|4|5||0
+Car|C5|Volkswagen|Golf|450|0|4|5||0
+Car|C6|Ford|Focus|420|0|4|5||0
+Car|C7|Hyundai|Elantra|380|0|4|5||0
+Car|C8|Kia|Cerato|390|0|4|5||0
+Car|C9|Nissan|Altima|500|0|4|5||0
+Car|C10|Honda|Civic|480|0|4|5||0
+Car|C11|Mazda|Mazda3|470|0|4|5||0
+Car|C12|Subaru|Impreza|510|0|4|5||0
+Car|C13|Tesla|Model 3|900|0|4|5||0
+Car|C14|Chevrolet|Malibu|460|0|4|5||0
+Car|C15|Peugeot|308|430|0|4|5||0
+Car|C16|Renault|Megane|420|0|4|5||0
+Car|C17|Volvo|S60|650|0|4|5||0
+Car|C18|Jaguar|XE|850|0|4|5||0
+Car|C19|Lexus|IS250|780|0|4|5||0
+Car|C20|Infiniti|Q50|760|0|4|5||0
+Car|C21|Toyota|Camry|520|0|4|5||0
+Car|C22|BMW|320i|820|0|4|5||0
+Car|C23|Mercedes|A200|770|0|4|5||0
+Car|C24|Audi|A3|690|0|4|5||0
+Car|C25|Volkswagen|Passat|540|0|4|5||0
+Car|C26|Ford|Fusion|500|0|4|5||0
+Car|C27|Hyundai|Sonata|530|0|4|5||0
+Car|C28|Kia|Optima|510|0|4|5||0
+Car|C29|Nissan|Sentra|480|0|4|5||0
+Car|C30|Honda|Accord|600|0|4|5||0
+Car|C31|Mazda|Mazda6|590|0|4|5||0
+Car|C32|Subaru|Legacy|610|0|4|5||0
+Car|C33|Tesla|Model S|1200|0|4|5||0
+Car|C34|Chevrolet|Cruze|470|0|4|5||0
+Car|C35|Peugeot|508|550|0|4|5||0
+Car|C36|Renault|Talisman|530|0|4|5||0
+Car|C37|Volvo|S90|900|0|4|5||0
+Car|C38|Jaguar|XF|950|0|4|5||0
+Car|C39|Lexus|ES350|880|0|4|5||0
+Car|C40|Infiniti|Q70|870|0|4|5||0
+Car|C41|Toyota|Yaris|300|0|4|5||0
+Car|C42|BMW|118i|700|0|4|5||0
+Car|C43|Mercedes|CLA200|750|0|4|5||0
+Car|C44|Audi|Q3|800|0|4|5||0
+Car|C45|Volkswagen|Tiguan|650|0|4|5||0
+Car|C46|Ford|Escape|620|0|4|5||0
+Car|C47|Hyundai|Tucson|600|0|4|5||0
+Car|C48|Kia|Sportage|590|0|4|5||0
+Car|C49|Nissan|Rogue|610|0|4|5||0
+Car|C50|Honda|CR-V|630|0|4|5||0
+Motorcycle|M1|Yamaha|R1|500|0|1000||0
+Motorcycle|M2|Kawasaki|Ninja ZX-6R|550|0|636||0
+Motorcycle|M3|Honda|CBR600RR|520|0|600||0
+Motorcycle|M4|Suzuki|GSX-R750|530|0|750||0
+Motorcycle|M5|Ducati|Panigale V2|900|0|955||0
+Motorcycle|M6|BMW|S1000RR|950|0|1000||0
+Motorcycle|M7|Aprilia|RSV4|920|0|1100||0
+Motorcycle|M8|KTM|RC 390|400|0|373||0
+Motorcycle|M9|Yamaha|MT-07|420|0|689||0
+Motorcycle|M10|Honda|CB500F|410|0|471||0
+Motorcycle|M11|Suzuki|SV650|430|0|645||0
+Motorcycle|M12|Kawasaki|Z900|480|0|948||0
+Motorcycle|M13|Ducati|Monster 821|700|0|821||0
+Motorcycle|M14|BMW|F900R|720|0|895||0
+Motorcycle|M15|Aprilia|Tuono 660|680|0|659||0
+Motorcycle|M16|KTM|Duke 390|390|0|373||0
+Motorcycle|M17|Yamaha|MT-09|600|0|889||0
+Motorcycle|M18|Honda|CB650R|580|0|649||0
+Motorcycle|M19|Suzuki|GSX-S750|570|0|749||0
+Motorcycle|M20|Kawasaki|Versys 650|560|0|649||0
+Motorcycle|M21|Yamaha|Tracer 900|620|0|847||0
+Motorcycle|M22|Honda|Africa Twin|800|0|1084||0
+Motorcycle|M23|BMW|GS 1250|950|0|1254||0
+Motorcycle|M24|KTM|Adventure 790|780|0|799||0
+Motorcycle|M25|Ducati|Multistrada 950|850|0|937||0
+Motorcycle|M26|Suzuki|V-Strom 650|600|0|645||0
+Motorcycle|M27|Kawasaki|KLR 650|580|0|652||0
+Motorcycle|M28|Yamaha|Tenere 700|620|0|689||0
+Motorcycle|M29|Honda|NC750X|550|0|745||0
+Motorcycle|M30|BMW|G310R|350|0|313||0
+Motorcycle|M31|KTM|Duke 125|300|0|125||0
+Motorcycle|M32|Yamaha|YZF-R3|320|0|321||0
+Motorcycle|M33|Honda|CBR500R|400|0|471||0
+Motorcycle|M34|Suzuki|GSX250R|310|0|248||0
+Motorcycle|M35|Kawasaki|Ninja 400|350|0|399||0
+Motorcycle|M36|Ducati|Scrambler 800|650|0|803||0
+Motorcycle|M37|BMW|R NineT|900|0|1170||0
+Motorcycle|M38|Yamaha|Bolt R-Spec|550|0|942||0
+Motorcycle|M39|Honda|Rebel 500|420|0|471||0
+Motorcycle|M40|KTM|Super Duke 1290|1000|0|1301||0
+Motorcycle|M41|Suzuki|Hayabusa|1100|0|1340||0
+Motorcycle|M42|Kawasaki|Ninja H2|1500|0|998||0
+Motorcycle|M43|Yamaha|R6|580|0|599||0
+Motorcycle|M44|Honda|Fireblade|950|0|1000||0
+Motorcycle|M45|Ducati|Panigale V4|1200|0|1103||0
+Motorcycle|M46|BMW|K1600GT|1300|0|1649||0
+Motorcycle|M47|KTM|RC 200|320|0|199||0
+Motorcycle|M48|Suzuki|Intruder 800|500|0|805||0
+Motorcycle|M49|Yamaha|XSR700|540|0|689||0
+Motorcycle|M50|Honda|Gold Wing|1400|0|1833||0
